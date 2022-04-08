@@ -1,0 +1,70 @@
+#include <stdio.h>
+
+int main(void)
+{
+    
+
+    return 0;
+}
+
+Tipos de variaveis:
+    int
+    float
+    char
+    double
+
+Operadores:
+    + Soma
+    - Subtração
+    * Multiplicação
+    / Divisão
+    % Resto Divisão
+
+    ++ Incremento
+    -- Decremento
+
+    >  Maior
+    >= Maior Igual
+    <  Menor
+    <= Menor Igual
+    == Igual
+    != Diferente
+
+    && E
+    ││ Ou
+    !  Não
+
+Scanf:
+    %d = int
+    %f = float
+    %c = char
+    %lld = long long int
+
+    & = Recebe + variavel
+
+Condição if:
+
+    if (Condição) {
+        Instruções
+    } else {
+        Instruções
+    }
+
+Condição Switch:
+
+Laço for:
+
+    for (int i = 0; i <= 10; i++) //Condição
+    {
+        // Instruções
+    }
+
+Laço while:
+
+Laço do while:
+
+    do {
+        Instruções
+    } while (Condição) {
+        Instruções
+    }
